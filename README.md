@@ -1,4 +1,14 @@
-## Olá 👋
+## Hi, my name is Fabio 👋
+
+### I am 21 years old and I am a student of the 8th period of Computer Engineering at PUC-PR 💻
+
+ 🌍 &nbsp; **Curitiba, Paraná, Brazil**
+ 
+ 🌱 &nbsp; **Learning: Big Data, IA, MATLAB**
+ 
+ 💬 &nbsp; **About me: Love technology, games, skateboarding and travel;**
+ 
+ 📞 &nbsp; **Contact me: +55 (41) 99229-0592**
 
  <div>
   <a href="https://github.com/fabiokishino">
@@ -6,22 +16,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokishino&layout=compact&langs_count=7&theme=react"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="fabiokishino" />
-</div>
-  
   ##
  
 <div> 
   <a href="https://instagram.com/fabiokishino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </a> 
+  <a href = "mailto:fabiokishino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:fabiokishino@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabio-kishino-5183a6168" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
