@@ -1,15 +1,14 @@
 ## Hi, my name is Fabio 👋
 
-### I am 21 years old and I am a student of the 8th period of Computer Engineering at PUC-PR 💻
+### I am 22 years old and I am a student of the 8th period of Computer Engineering at PUC-PR 💻
 
  🌍 &nbsp; **Curitiba, Paraná, Brazil**
  
- 🌱 &nbsp; **Learning: Big Data, IA, MATLAB**
+ 🌱 &nbsp; **Learning: Microsoft Azure, Information Security and SAP HANA **
  
  💬 &nbsp; **About me: Love technology, games, skateboarding and travel;**
  
- 📞 &nbsp; **Contact me: +55 (41) 99229-0592**
-
+ 
  <div>
   <a href="https://github.com/fabiokishino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiokishino&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
