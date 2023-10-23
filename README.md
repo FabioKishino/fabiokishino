@@ -1,12 +1,12 @@
 ## Hi, my name is Fabio 👋
 
-### I am 22 years old and I am a student of the 8th period of Computer Engineering at PUC-PR 💻
+### I am 23 years old, and I graduated in Computer Engineering at PUC-PR 💻
 
  🌍 &nbsp; **Curitiba, Paraná, Brazil**
  
- 🌱 &nbsp; **Learning: Microsoft Azure, Information Security and SAP HANA **
+ 🌱 &nbsp; **Learning: Microsoft Azure, SAP HANA and Python **
  
- 💬 &nbsp; **About me: Love technology, games, skateboarding and travel;**
+ 💬 &nbsp; **About me: Love technology, games and travel;**
  
  
  <div>
