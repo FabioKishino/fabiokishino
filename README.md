@@ -1,13 +1,8 @@
 ## Hi, my name is Fabio 👋
 
-### I am 23 years old, and I graduated in Computer Engineering at PUC-PR 💻
+### I am 24 years old, and I graduated in Computer Engineering at PUC-PR 💻
 
  🌍 &nbsp; **Curitiba, Paraná, Brazil**
- 
- 🌱 &nbsp; **Learning: Microsoft Azure, SAP HANA and Python **
- 
- 💬 &nbsp; **About me: Love technology, games and travel;**
- 
  
  <div>
   <a href="https://github.com/fabiokishino">
