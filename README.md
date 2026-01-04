@@ -1,8 +1,12 @@
-## Hi, my name is Fabio 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00d10d&center=true&vCenter=true&width=600&lines=Fabio+Kishino;Data+Engineer" alt="Typing SVG" />
+</div>
 
-I'm a 24-year-old Data Engineer based in Curitiba, Brazil, with 2 years of hands-on experience delivering data solutions using Snowflake, GitHub, Python, and SQL. I hold a degree in Computer Engineering from PUC-PR and am currently pursuing a postgraduate specialization in Data Science and its Applications at UTFPR. 
+I'm a 25-year-old Data Engineer based in Curitiba, Brazil, with 2+ years of experience building scalable data solutions. At ExxonMobil, I contributed to a major S&OP system redesign ($50M+ in benefits), implementing Snowflake solutions, and Apache NiFi middleware to support enterprise modernization initiatives. I also provided technical support for Supply Chain planning platforms using Snowflake, SAP HANA, and PostgreSQL.
 
-## How to reach me 📫
+I hold a degree in Computer Engineering from PUC-PR and am currently pursuing a postgraduate specialization in Data Science and its Applications at UTFPR.
+
+## Contact 📫
  
 <div> 
   <a href = "mailto:fabiokishino@hotmail.com"><img src="https://img.icons8.com/?size=100&id=ut6gQeo5pNqf&format=png&color=000000" target="_blank" width="40" height="40"></a>
@@ -10,58 +14,17 @@ I'm a 24-year-old Data Engineer based in Curitiba, Brazil, with 2 years of hands
   <a href="https://www.linkedin.com/in/fabio-kishino-5183a6168" target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" target="_blank" width="40" height="40"></a> 
 </div>
 
-## Tech Stack 💻
-<p align="left" style="text-decoration: none;"> 
-<!--  Python -->
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python" width="40" height="40"/> 
- </a>
-<!--  sql -->
- <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="slq" width="40" height="40"/> 
- </a>
-<!--  typescript -->
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" alt="typescript" width="40" height="40"/> 
- </a>
-<!--  javascript -->
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="typescript" width="40" height="40"/> 
- </a> 
-<!--  react -->
- <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="postman" width="40" height="40"/> 
- </a>
-<!--  nodejs -->
- <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="postman" width="40" height="40"/> 
- </a>
-<!--  git -->
- <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="40" height="40"/>
- </a>
-<!--  github -->
- <a href="https://github.com" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="40" height="40"/>
- </a>
-<!--  microsoft -->
- <a href="https://microsoft.com" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/?size=100&id=22989&format=png&color=000000" alt="Microsoft" width="40" height="40"/>
- </a>
-<!--  devops -->
- <a href="https://azure.microsoft.com/pt-br/products/devops" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/?size=100&id=lWL5zqQfa1pO&format=png&color=000000" alt="DevOps" width="35" height="35"/>
- </a>
-<!--  snowflake -->
- <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1720244494" alt="DevOps" width="32" height="32"/>
- </a>
+## 💻 Tech Stack
 
- 
-</p>
-
- <div>
-  <a href="https://github.com/fabiokishino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiokishino&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokishino&layout=compact&langs_count=7&theme=react"/>
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
