@@ -4,7 +4,7 @@
 
 ---
 
-## About
+## About 👋
 
 Data Engineer at ExxonMobil. I contributed to an S&OP system redesign ($50M+ in benefits): built Snowflake views, integrated Apache NiFi middleware, and set up CI/CD pipelines to support the move to a new SAP S/4HANA environment.
 
@@ -12,9 +12,9 @@ Graduated in Computer Engineering (PUC-PR). Postgraduate in Data Science (UTFPR)
 
 ---
 
-## Featured
+## Featured 🚀
 
-### Climate × Public Health Observatory
+### Climate × Public Health Observatory 🌡️
 
 **Problem:** Curitiba's weather and respiratory hospitalizations live in separate public datasets (INMET and DataSUS) with no easy way to compare them.
 
@@ -24,7 +24,7 @@ Graduated in Computer Engineering (PUC-PR). Postgraduate in Data Science (UTFPR)
 
 ---
 
-## Stack
+## Stack 🛠️
 
 **Languages** Python, SQL, JavaScript/TypeScript
 **Warehouses** Snowflake, PostgreSQL, SAP HANA
@@ -33,6 +33,6 @@ Graduated in Computer Engineering (PUC-PR). Postgraduate in Data Science (UTFPR)
 
 ---
 
-## Contact
+## Contact 📬
 
 [LinkedIn](https://www.linkedin.com/in/fabio-kishino-5183a6168) · [fabiokishino@gmail.com](mailto:fabiokishino@gmail.com)
