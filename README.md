@@ -1,30 +1,32 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00d10d&center=true&vCenter=true&width=600&lines=Fabio+Kishino;Data+Engineer" alt="Typing SVG" />
-</div>
+# Fabio Kishino
 
-I'm a 25-year-old Data Engineer based in Curitiba, Brazil, with 2+ years of experience building scalable data solutions. At ExxonMobil, I contributed to a major S&OP system redesign ($50M+ in benefits), implementing Snowflake solutions, and Apache NiFi middleware to support enterprise modernization initiatives. I also provided technical support for Supply Chain planning platforms using Snowflake, SAP HANA, and PostgreSQL.
+**Data Engineer** in Curitiba, Brazil. I build data pipelines on Snowflake, Python and SQL, and I care about whether the numbers can be trusted.
 
-I hold a degree in Computer Engineering from PUC-PR and am currently pursuing a postgraduate specialization in Data Science and its Applications at UTFPR.
+## About
 
-## Contact 📫
- 
-<div> 
-  <a href = "mailto:fabiokishino@hotmail.com"><img src="https://img.icons8.com/?size=100&id=ut6gQeo5pNqf&format=png&color=000000" target="_blank" width="40" height="40"></a>
-  <a href = "mailto:fabiokishino@gmail.com"><img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" target="_blank" width="40" height="40"></a>
-  <a href="https://www.linkedin.com/in/fabio-kishino-5183a6168" target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" target="_blank" width="40" height="40"></a> 
-</div>
+Three years in data engineering, mostly in enterprise supply chain at ExxonMobil: Snowflake, SAP HANA, PostgreSQL and Apache NiFi.
 
-## 💻 Tech Stack
+I contributed to the redesign of an S&OP system with $50M+ in [expected] benefits. [PLACEHOLDER: one sentence on what *you* built inside it.]
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+B.Sc. in Computer Engineering (PUC-PR). Postgraduate in Data Science (UTFPR).
+
+## Featured
+
+### Climate × Public Health Observatory
+
+**Problem:** Curitiba's weather and respiratory hospitalizations live in separate public datasets (INMET and DataSUS) with no easy way to compare them.
+
+**Solution:** A nightly pipeline that joins daily climate data with SIH-RD hospitalizations. Python ingestion, DuckDB/MotherDuck, dbt with Elementary for data observability, GitHub Actions, and a Next.js dashboard on Vercel. Trade-offs are documented as [ADRs](https://github.com/FabioKishino/climate-health-observatory/tree/main/docs/adr).
+
+[Live dashboard](https://climate-health-observatory.vercel.app) · [Source](https://github.com/FabioKishino/climate-health-observatory)
+
+## Stack
+
+**Languages** Python, SQL, JavaScript/TypeScript
+**Warehouses** Snowflake, DuckDB/MotherDuck, PostgreSQL, SAP HANA
+**Pipelines** dbt, Apache NiFi, GitHub Actions
+**Quality** Elementary
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/fabio-kishino-5183a6168) · [fabiokishino@gmail.com](mailto:fabiokishino@gmail.com)
