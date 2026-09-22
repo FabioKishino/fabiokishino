@@ -1,18 +1,18 @@
 # Fabio Kishino
 
-**Data Engineer** in Curitiba, Brazil. I build data pipelines on Snowflake, Python and SQL, and I care about whether the numbers can be trusted.
+**Data Engineer** based in Curitiba, Brazil. I build solutions on Snowflake with Python and SQL, and I care about whether the numbers can be trusted.
 
 ---
 
 ## About 👋
 
-Data Engineer at ExxonMobil. I contributed to an S&OP system redesign ($50M+ in benefits): built Snowflake views, integrated Apache NiFi middleware, and set up CI/CD pipelines to support the move to a new SAP S/4HANA environment.
+Data Engineer at ExxonMobil (2+ years of experience). I contributed to an S&OP system redesign ($50M+ in benefits) integrating with a new SAP S/4 HANA environment while aligning with enterprise-wide modernization initiatives, building Snowflake views, using GitHub CI/CD pipeline, and Apache NiFi as middleware integration tool.
 
 Graduated in Computer Engineering (PUC-PR). Postgraduate in Data Science (UTFPR).
 
 ---
 
-## Featured 🚀
+## Personal Projects 🚀
 
 ### Climate × Public Health Observatory 🌡️
 
@@ -26,10 +26,9 @@ Graduated in Computer Engineering (PUC-PR). Postgraduate in Data Science (UTFPR)
 
 ## Stack 🛠️
 
-**Languages** Python, SQL, JavaScript/TypeScript
-**Warehouses** Snowflake, PostgreSQL, SAP HANA
+**Languages** Python, SQL, JavaScript/TypeScript, NodeJS
+**Warehouses** Snowflake, PostgreSQL
 **Pipelines** dbt, Apache NiFi, GitHub Actions
-**Quality** Elementary
 
 ---
 
