@@ -2,13 +2,15 @@
 
 **Data Engineer** in Curitiba, Brazil. I build data pipelines on Snowflake, Python and SQL, and I care about whether the numbers can be trusted.
 
+---
+
 ## About
 
-Three years in data engineering, mostly in enterprise supply chain at ExxonMobil: Snowflake, SAP HANA, PostgreSQL and Apache NiFi.
+Data Engineer at ExxonMobil. I contributed to an S&OP system redesign ($50M+ in benefits): built Snowflake views, integrated Apache NiFi middleware, and set up CI/CD pipelines to support the move to a new SAP S/4HANA environment.
 
-I contributed to the redesign of an S&OP system with $50M+ in [expected] benefits. [PLACEHOLDER: one sentence on what *you* built inside it.]
+Graduated in Computer Engineering (PUC-PR). Postgraduate in Data Science (UTFPR).
 
-B.Sc. in Computer Engineering (PUC-PR). Postgraduate in Data Science (UTFPR).
+---
 
 ## Featured
 
@@ -20,12 +22,16 @@ B.Sc. in Computer Engineering (PUC-PR). Postgraduate in Data Science (UTFPR).
 
 [Live dashboard](https://climate-health-observatory.vercel.app) · [Source](https://github.com/FabioKishino/climate-health-observatory)
 
+---
+
 ## Stack
 
 **Languages** Python, SQL, JavaScript/TypeScript
-**Warehouses** Snowflake, DuckDB/MotherDuck, PostgreSQL, SAP HANA
+**Warehouses** Snowflake, PostgreSQL, SAP HANA
 **Pipelines** dbt, Apache NiFi, GitHub Actions
 **Quality** Elementary
+
+---
 
 ## Contact
 
